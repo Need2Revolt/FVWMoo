@@ -31,10 +31,10 @@ This will install everything you need to run a proot image, including audio, X11
 # 3 Features and how to use them
 The desktop is optimised for mouse interaction and minimal intrusion.
 
-## Menu
+### Menu
 Right mouse button (RMB from now on) anywhere on the desktop will bring up the menu.
 
-## Window title bar
+### Window title bar
 Windows will have a vertical title bar on the left instead of top, and will have 5 buttons. Each button reacts to left right and middle mouse clicks differently.  
 Starting form the bottom and going up:  
 - Button 1:  
@@ -60,24 +60,24 @@ Starting form the bottom and going up:
 
 Scroll wheel up/down on window title will roll-up/unroll window (just try it, you'll understand)  
 
-## Virtual desktops
+### Virtual desktops
 The virtual desktop is organized in a 3x3 matrix. in the bottom right you'll see a navigator if you ever get lost. Hovering your cursor over the edges will move to the neighbouring virtual desktop and windows can be moved freely, even overlapping between virtual desktops.  
 
-## Gestures
+### Gestures
 
-## Quake console
+### Quake console
 Having a quick accessible console window handy is always a good thing. Hitting Alt+F1 on your keyboard will bring up/hide a neat quake-like console, if you're old like me, you know what that is, otherwise just try it and you'll understand...
 
-## Additional stuff
+### Additional stuff
 You'll get some system infos rendered directly on the desktop background via conky, unfortunately since it's running in a proot it's heavily limited in what it can display.  
 There's a minimal task bar in the top portion of the screen, managed by tint2, it will display running windows and time and date
 
-## Installed software
+### Installed software
 Terminal emulators: konsole, urxvt  
 Text editor: Kate  
 Browser: chromium  
 Office automation: LibreOffice  
-Development: gcc 
+Development: gcc  
 Anything else: install what you need. It's a Debian image under the hood...
 
 # 4 Customisation
