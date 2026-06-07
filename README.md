@@ -2,6 +2,8 @@ Coming soon™ please bear with me 🐻
 TODO:  
 - clean config
 - create separate repo for fvwm config only (and friends, conky urxvt)
+- window borders
+- wallpapers preview
 - add screenshots
 - create and publish the actual image  
 
