@@ -1,10 +1,7 @@
 Coming soon™ please bear with me 🐻   
   
 TODO:  
-- clean config
 - create separate repo for fvwm config only (and friends, conky urxvt)
-- window borders
-- wallpapers preview
 - add screenshots
 - create and publish the actual image  
 
@@ -12,6 +9,9 @@ TODO:
 # FVWMoo
 Custom FVWM config running on an Android proot image. Minimalistic and performance oriented, interaction is heavily mouse based.
 
+_If you're looking for just the FVWM config, please refer to this other repo: TODO.  
+Otherwise read on below for the full proot image_  
+  
 It's meant to be a lightweight Linux image to be used whenever you can't or don't want to carry a full laptop with you. It requires a mouse and a keyboard to be used, so you'll either have to carry those or scavenge them in your surroundings.
 
 Be sure to read section #3 or you will likely be lost inside the environment (or won't appreciate all it's features).
@@ -97,8 +97,7 @@ There's a minimal task bar in the top portion of the screen, managed by tint2, i
 ### Installed software
 Terminal emulators: Konsole, urxvt  
 Text editor: Kate  
-Browser: Chromium  
-Office automation: LibreOffice  
+Browser: Chromium   
 Development: gcc    
 Anything else: install what you need. It's a Debian image under the hood... Most items in the menu won't work as I wanted to ship a minimal version and avoid cluttering everyone with my own choices...
 
