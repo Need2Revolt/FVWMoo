@@ -29,5 +29,42 @@ This will install everything you need to run a proot image, including audio, X11
 # 2 Importing the image 
 
 # 3 Features and how to use them
+The desktop is optimised for mouse interaction and minimal intrusion.
+## Menu
+Right mouse button (RMB from now on) anywhere on the desktop will bring up the menu.
+
+## Window title bar
+Windows will have a vertical title bar on the left instead of top, and will have 5 buttons. Each button reacts to left right and middle mouse clicks differently. 
+Starting form the bottom and going up: 
+Button 1:
+    LMB -> close window
+    RMB -> iconify window
+    MMB -> 
+Button 2:
+    LMB -> 
+    RMB -> 
+    MMB -> 
+Button 3:
+    LMB -> 
+    RMB -> 
+    MMB -> 
+Button 4:
+    LMB -> 
+    RMB -> 
+    MMB -> 
+Button 5:
+    LMB -> 
+    RMB -> 
+    MMB -> 
+Scroll wheel up/down on window title will roll-up/unroll window (just try it, you'll understand) 
+
+## Virtual desktops
+The virtual desktop is organized in a 3x3 matrix. in the bottom right you'll see a navigator if you ever get lost. Hovering your cursor over the edges will move to the neighbouring virtual desktop and windows can be moved freely, even overlapping between virtual desktops
+
+## Gestures
+
+## Quake console
+
+## Installed software
 
 # 4 Customisation
