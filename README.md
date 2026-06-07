@@ -48,14 +48,14 @@ Starting form the bottom and going up:
   - LMB ->  
   - RMB ->  
   - MMB ->  
-Button 4:  
-    LMB ->  
-    RMB ->  
-    MMB ->  
-Button 5:  
-    LMB ->  
-    RMB ->  
-    MMB ->  
+- Button 4:  
+  - LMB ->  
+  - RMB ->  
+  - MMB ->  
+- Button 5:  
+ - LMB ->  
+ - RMB ->  
+ - MMB ->  
 Scroll wheel up/down on window title will roll-up/unroll window (just try it, you'll understand)  
 
 ## Virtual desktops
