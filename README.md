@@ -53,9 +53,9 @@ Starting form the bottom and going up:
   - RMB ->  
   - MMB ->  
 - Button 5:  
- - LMB ->  
- - RMB ->  
- - MMB ->  
+  - LMB ->  
+  - RMB ->  
+  - MMB ->  
 Scroll wheel up/down on window title will roll-up/unroll window (just try it, you'll understand)  
 
 ## Virtual desktops
