@@ -36,18 +36,18 @@ Right mouse button (RMB from now on) anywhere on the desktop will bring up the m
 ## Window title bar
 Windows will have a vertical title bar on the left instead of top, and will have 5 buttons. Each button reacts to left right and middle mouse clicks differently.  
 Starting form the bottom and going up:  
-Button 1:
-    LMB -> close window  
-    RMB -> iconify window  
-    MMB ->  
-Button 2:  
-    LMB ->  
-    RMB ->  
-    MMB ->  
-Button 3:  
-    LMB ->  
-    RMB ->  
-    MMB ->  
+- Button 1:  
+  - LMB -> close window  
+  - RMB -> iconify window  
+  - MMB ->  
+- Button 2:  
+  - LMB ->  
+  - RMB ->  
+  - MMB ->  
+- Button 3:  
+  - LMB ->  
+  - RMB ->  
+  - MMB ->  
 Button 4:  
     LMB ->  
     RMB ->  
