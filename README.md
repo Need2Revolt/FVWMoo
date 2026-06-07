@@ -21,6 +21,8 @@ Once downloaded and installed, open it and run the following commands:
     pkg install proot-distro
     pkg install wget
     pkg install git
+pkg install virglrenderer-mesa-zink
+termux-setup-storage
 ```
 
 # 2 Importing the image 
