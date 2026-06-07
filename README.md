@@ -103,7 +103,7 @@ Anything else: install what you need. It's a Debian image under the hood... Most
 If you want to create your own user you'll need to copy .fvwm .concyrc and .X session to it's home folder; be sure to check execution permissions for the .fvwm/scripts/ folder's content.  
 You'll also need to edit the startup script and replace the username there.
   
-If you want to customise FVWM I suggest you look here: TODO
+If you want to customise FVWM I suggest you look here: TODO  
 General applications are defined as variables in .fvwm/config file, everything else is split logically in files under .fvwm/conf they might look like a lot, but you'll get used to them.  
 
 
