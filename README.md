@@ -12,18 +12,19 @@ Install the newest version from Termux's GitHub page as the one in the Google Pl
 <br>
 Once downloaded and installed, open it and run the following commands: 
 ```
-    pkg update
-    pkg upgrade
-    pkg install x11-repo
-    pkg install termux-x11-nightly
-    pkg install tur-repo
-    pkg install pulseaudio
-    pkg install proot-distro
-    pkg install wget
-    pkg install git
+pkg update
+pkg upgrade
+pkg install x11-repo
+pkg install termux-x11-nightly
+pkg install tur-repo
+pkg install pulseaudio
+pkg install proot-distro
+pkg install wget
+pkg install git
 pkg install virglrenderer-mesa-zink
 termux-setup-storage
 ```
+This will install everything you need to run a proot image, including audio, X11, HW acceleration; some utils that we'll need later and will enable Termux to access your device's storage.
 
 # 2 Importing the image 
 
