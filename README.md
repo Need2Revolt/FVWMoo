@@ -1,4 +1,5 @@
-Coming soon™ please bear with me 🐻 
+Coming soon™ please bear with me 🐻   
+  
 TODO:  
 - clean config
 - create separate repo for fvwm config only (and friends, conky urxvt)
