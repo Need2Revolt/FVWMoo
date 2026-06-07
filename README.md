@@ -64,6 +64,19 @@ Scroll wheel up/down on window title will roll-up/unroll window (just try it, yo
 The virtual desktop is organized in a 3x3 matrix. in the bottom right you'll see a navigator if you ever get lost. Hovering your cursor over the edges will move to the neighbouring virtual desktop and windows can be moved freely, even overlapping between virtual desktops.  
 
 ### Gestures
+Gestures in FVWM are the main reason I choose this VM back in the day, they allow you to draw shapes with your mouse and have the VM react to it. You will not get a visual cue of the shape being drawn.  
+Possible shapes follow a keypad style matrix:  
+789  
+456  
+123  
+so an L shape would be 74123  
+Available gestures are:
+- 258 (straight line down to up): open browser  
+- 78963 (left then down): open terminal
+- 78963 while holding shift key (left then down): open terminal with -su (you'll need to provide root password)
+- 12369 (left then up: open file manager
+- 74123 (down then left): open text editor
+
 
 ### Quake console
 Having a quick accessible console window handy is always a good thing. Hitting Alt+F1 on your keyboard will bring up/hide a neat quake-like console, if you're old like me, you know what that is, otherwise just try it and you'll understand...
