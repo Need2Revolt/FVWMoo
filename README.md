@@ -38,25 +38,25 @@ Right mouse button (RMB from now on) anywhere on the desktop will bring up the m
 Windows will have a vertical title bar on the left instead of top, and will have 5 buttons. Each button reacts to left right and middle mouse clicks differently.  
 Starting form the bottom and going up:  
 - Button 1:  
-  - LMB -> close window  
-  - RMB -> iconify window  
-  - MMB ->  
+  - LMB -> close window    
+  - RMB -> iconify window    
+  - MMB -> identify (show window infos)   
 - Button 2:  
-  - LMB ->  
-  - RMB ->  
-  - MMB ->  
+  - LMB -> reorder windows from top left (needs more space)   
+  - RMB -> rearrange windows using all screen space    
+  - MMB -> reorder windows from top left and roll them (needs more space)   
 - Button 3:  
-  - LMB ->  
-  - RMB ->  
-  - MMB ->  
+  - LMB -> send window to left virtual desktop  
+  - RMB -> send window to right virtual desktop    
+  - MMB -> send window to left virtual desktop and follow view    
 - Button 4:  
-  - LMB ->  
-  - RMB ->  
-  - MMB ->  
+  - LMB -> send window to foreground    
+  - RMB -> send window to background    
+  - MMB -> set sticky (always foreground)    
 - Button 5:  
-  - LMB ->  
-  - RMB ->  
-  - MMB ->  
+  - LMB -> maximize window 
+  - RMB -> maximize window horizontally  
+  - MMB -> maximise window vertically  
 
 Scroll wheel up/down on window title will roll-up/unroll window (just try it, you'll understand)  
 
