@@ -9,7 +9,9 @@ Be sure to read section #3 or you will likely be lost inside the environment (or
 
 # 1 Installing Termux
 Install the newest version from Termux's GitHub page as the one in the Google Play store is outdated. You can find it [here](https://github.com/termux/termux-app/releases)
+<br>
 Once downloaded and installed, open it and run the following commands: 
+```
     pkg update
     pkg upgrade
     pkg install x11-repo
@@ -19,7 +21,7 @@ Once downloaded and installed, open it and run the following commands:
     pkg install proot-distro
     pkg install wget
     pkg install git
-
+```
 
 # 2 Importing the image 
 
