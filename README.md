@@ -1,4 +1,10 @@
 Coming soon™ please bear with me 🐻 
+TODO:  
+- clean config
+- create separate repo for fvwm config only (and friends, conky urxvt)
+- add screenshots
+- create and publish the actual image  
+
 
 # FVWMoo
 Custom FVWM config running on an Android proot image. Minimalistic and performance oriented, interaction is heavily mouse based.
@@ -86,11 +92,20 @@ You'll get some system infos rendered directly on the desktop background via con
 There's a minimal task bar in the top portion of the screen, managed by tint2, it will display running windows and time and date
 
 ### Installed software
-Terminal emulators: konsole, urxvt  
+Terminal emulators: Konsole, urxvt  
 Text editor: Kate  
-Browser: chromium  
+Browser: Chromium  
 Office automation: LibreOffice  
-Development: gcc  
-Anything else: install what you need. It's a Debian image under the hood...
+Development: gcc    
+Anything else: install what you need. It's a Debian image under the hood... Most items in the menu won't work as I wanted to ship a minimal version and avoid cluttering everyone with my own choices...
 
 # 4 Customisation
+If you want to create your own user you'll need to copy .fvwm .concyrc and .X session to it's home folder; be sure to check execution permissions for the .fvwm/scripts/ folder's content.  
+You'll also need to edit the startup script and replace the username there.
+  
+If you want to customise FVWM I suggest you look here: TODO
+General applications are defined as variables in .fvwm/config file, everything else is split logically in files under .fvwm/conf they might look like a lot, but you'll get used to them.  
+
+
+# 5 Thank you
+If you've read this far, thank you. I hope you'll enjoy this little critter and will customize it even further to suit your needs. The beauty of FVWM is just that and it gave me so much freedom and fun back in the day, that's why I decided to revive it. For archeological purposes here's the original post: [Cyb'](www.opendesktop.org/p/1018274)
