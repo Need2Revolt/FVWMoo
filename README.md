@@ -3,7 +3,6 @@ Coming soon™ please bear with me 🐻
 TODO:  
 - create separate repo for fvwm config only (and friends, conky urxvt)
 - add screenshots
-- create and publish the actual image  
 
 
 # FVWMoo
@@ -44,7 +43,7 @@ it will download the 800+Mb image, once done, import it with:
 ```
 proot-distro restore debian-fvwmoo.tar.bz2
 ```
-this will also take some time, grab a coffee or something...
+this will also take some time, grab a coffee or something...  
 Once the image is imported, we need to get the startup script with:
 ```
 wget https://github.com/Need2Revolt/FVWMoo/blob/master/startfvwm_debian.sh
