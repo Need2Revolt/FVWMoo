@@ -3,7 +3,6 @@ Coming soon™ please bear with me 🐻
 TODO:  
 - create separate repo for fvwm config only (and friends, conky urxvt)
 - add screenshots
-- create and publish the actual image  
 
 
 # FVWMoo
@@ -36,6 +35,25 @@ termux-setup-storage
 This will install everything you need to run a proot image, including audio, X11, HW acceleration; some utils that we'll need later and will enable Termux to access your device's storage.
 
 # 2 Importing the image 
+Inside the Termux app run:
+```
+wget https://github.com/Need2Revolt/FVWMoo/raw/refs/heads/master/debian-fvwmoo.tar.bz2?download=
+```
+it will download the 800+Mb image, once done, import it with:
+```
+proot-distro restore debian-fvwmoo.tar.bz2
+```
+this will also take some time, grab a coffee or something...  
+Once the image is imported, we need to get the startup script with:
+```
+wget https://github.com/Need2Revolt/FVWMoo/blob/master/startfvwm_debian.sh
+```
+check if the script has execution permission, if not, add them and finally launch the script.
+```
+chmod +x startfvwm_debian.sh
+./startfvwm_debian.sh
+```
+Congratulations, you're insde the environment now! Read on section 3 to understand how to use it.
 
 # 3 Features and how to use them
 The desktop is optimised for mouse interaction and minimal intrusion.
