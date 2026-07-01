@@ -11,6 +11,8 @@ Custom FVWM config running on an Android proot image. Minimalistic and performan
 _If you're looking for just the FVWM config, please refer to this other repo: TODO.  
 Otherwise read on below for the full proot image_  
   
+![Screenshot1](/Capture.jpg?raw=true "Screenshot 1")  
+  
 It's meant to be a lightweight Linux image to be used whenever you can't or don't want to carry a full laptop with you. It requires a mouse and a keyboard to be used, so you'll either have to carry those or scavenge them in your surroundings.
 
 Be sure to read section #3 or you will likely be lost inside the environment (or won't appreciate all it's features).
