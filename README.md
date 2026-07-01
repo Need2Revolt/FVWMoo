@@ -1,7 +1,7 @@
 # FVWMoo
 Custom FVWM config running on an Android proot image. Minimalistic and performance oriented, interaction is heavily mouse based.
 
-_If you're looking for just the FVWM config, please refer to this other repo: [FVWMoo-config] (https://github.com/Need2Revolt/FVWMoo-config)  
+_If you're looking for just the FVWM config, please refer to this other repo: [FVWMoo-config](https://github.com/Need2Revolt/FVWMoo-config)  
 Otherwise read on below for the full proot image_  
   
 ![Screenshot1](/Capture.png?raw=true "Screenshot 1")  
