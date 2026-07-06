@@ -46,6 +46,8 @@ this will also take some time, grab a coffee or something...
 Once the image is imported, we need to get the startup script with:
 ```
 wget https://github.com/Need2Revolt/FVWMoo/blob/master/startfvwm_debian.sh
+
+wget https://raw.githubusercontent.com/Need2Revolt/FVWMoo/master/startfvwm_debian.sh
 ```
 check if the script has execution permission, if not, add them and finally launch the script.
 ```
